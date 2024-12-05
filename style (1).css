@@ -13,6 +13,10 @@ header {
     color: rgb(42, 122, 228);
 }
 
+img {
+  height: 200px;
+}
+
 .chamada {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
